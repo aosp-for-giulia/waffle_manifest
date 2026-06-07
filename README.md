@@ -9,7 +9,7 @@ repo init -u https://github.com/Lunaris-AOSP/android -b 16.2 --git-lfs
 ### Clone Repository
 
 ```
-git clone https://github.com/aosp-for-giulia/local_manifest.git -b lunaris .repo/local_manifests
+git clone https://github.com/aosp-for-giulia/waffle_manifest.git -b lunaris .repo/local_manifests
 ```
 
 ### Start Sync 
