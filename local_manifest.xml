@@ -25,8 +25,7 @@
 
   <!-- Extras -->
   <project name="Lunaris-AOSP/vendor_lunaris-priv_keys" path="vendor/lunaris-priv/keys" revision="test" remote="github" />
-  <project name="aosp-for-giulia/proprietary_vendor_sony_dolby" path="vendor/sony/dolby" revision="16" remote="github" />
-  <project name="aosp-for-giulia/android_packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" revision="16" remote="github" />
+  <project name="aosp-for-giulia/hardware_dolby" path="hardware/dolby" revision="16" remote="github" />
   <project name="aosp-for-giulia/vendor_oneplus_ir" path="vendor/oneplus/ir" revision="16" remote="github" />
   <project name="kenway214/packages_apps_GameBar" path="packages/apps/GameBar" revision="lineage-23.2" remote="github" />
 
